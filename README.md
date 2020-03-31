@@ -19,4 +19,4 @@ Python Version 3.8
 Abdullah Najjar
 
 ## License
-[GNU License](https://choosealicense.com/licenses/GNU/)
+[GNU License](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
