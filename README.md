@@ -11,8 +11,9 @@ Completed! :)
 Python Version 3.8
 
 ## Installation
-hijri-converter [hijri-converter](https://pypi.org/project/hijri-converter/)
-install [PySimpleGUI](https://pypi.org/project/PySimpleGUI/)
+[hijri-converter](https://pypi.org/project/hijri-converter/)
+
+[PySimpleGUI](https://pypi.org/project/PySimpleGUI/)
 
 ## Author
 Abdullah Najjar
