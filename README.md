@@ -11,8 +11,8 @@ Completed! :)
 Python Version 3.8
 
 ## Installation
-Use the package manager [pip](https://pypi.org/project/hijri-converter/) to install
-Use the package manager [pip](https://pypi.org/project/PySimpleGUI/) to install
+hijri-converter [hijri-converter](https://pypi.org/project/hijri-converter/)
+install [PySimpleGUI](https://pypi.org/project/PySimpleGUI/)
 
 ## Author
 Abdullah Najjar
