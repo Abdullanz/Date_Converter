@@ -1,18 +1,21 @@
 # Date_Converter_Hijri_to_Gregorian-
 
-A project where I try to implement a date converter in as many programming languages as I could.
 
-# Python
+## Description
+This is a project where I implemented a date converter in Python. It converts a Hijri date to a Gregorian date and vice versa. Also, this date converter program gives the name of the day of requested date. In this project the Graphic User Interface (GUI) was implemented through the PySimpleGUI API and the date conversion functions were implemented using the hijri-converter API. These APIs allowed me to simply implement the program's functionality with the fewest lines possible and absolute clarity of design.
 
-$ pip install -U hijri-converter
+## Project status
+Completed! :)
 
+## Python Version
+Python Version 3.8
 
-# Guidelines
+## Installation
+Use the package manager [pip](https://pypi.org/project/hijri-converter/) to install
+Use the package manager [pip](https://pypi.org/project/PySimpleGUI/) to install
 
-
-# Author
+## Author
 Abdullah Najjar
 
-# License
-GNU License
-
+## License
+[GNU License](https://choosealicense.com/licenses/GNU/)
