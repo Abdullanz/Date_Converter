@@ -16,7 +16,9 @@ Python Version 3.8
 
 ## Installation
 [hijri-converter](https://pypi.org/project/hijri-converter/)
+
 [PySimpleGUI](https://pypi.org/project/PySimpleGUI/)
+
 [PyInstaller](https://pypi.org/project/PyInstaller/)
 
 ## Author
