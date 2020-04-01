@@ -12,7 +12,7 @@ Python Version 3.8
 
 ## Flowchart
 
-![Flowchart](Date_Converter_Flowchart.jpeg)
+![Flowchart](Date_Converter_Flowchart.jpg)
 
 ## Installation
 [hijri-converter](https://pypi.org/project/hijri-converter/)
